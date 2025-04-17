@@ -7,3 +7,9 @@
 hello = "hello world"
 print = (hello)
 ```
+
+## Task List
+
+- [x] Create a Github account 
+- [ ] Create a repository
+- [ ] Add your first code 
